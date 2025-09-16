@@ -1,7 +1,7 @@
 # auto-myintership
 
 ## how to run this script
-- `git clone https://cornerbytes/auto-myinternship.git`
+- `git clone https://github.com/cornerbytes/auto-myinternship.git`
 - replace images/ttd.png with your signature
 - update conf.py
 - `python3 myinter.py`
